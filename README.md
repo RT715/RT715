@@ -2,7 +2,7 @@
 
 a Software Quality Assurance engineer with over than 4 year of experience is software testing field. What I like the most in QA is to see how the product changes due to the fact I test it and when the product goes to the public and you see people actually use it, you are like: "*The half of what people see, I influenced it*" and it gives me that feeling like I am a real contributor, like I bring value to the world.
 
-Also I like QA because this is the only profession where you criticise other people's work and the better you are at criticising the more respect you get. 21130d
+Also I like QA because this is the only profession where you criticise other people's work and the better you are at criticising the more respect you get.
 
 ### Languages
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> </p>
