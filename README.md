@@ -1,6 +1,6 @@
 ## Warrup folks 🤙 I am Artem
 
-a Software Quality Assurance engineer with over than 4 year of experience is software testing field. What I like the most in QA is to see how the product changes due to the fact I test it and when the product goes to the public and you see people actually use it, you are like: "*The half of what people see, I influenced it*" and it gives me that feeling like I am a real contributor, like I bring value to the world.
+a Software Quality Assurance engineer with over than 4 year of experience is software testing field. What I like the most in QA is to see how the product changes due to the fact I test it and when the product goes to the public and you see people actually use it, you are like: "*The half of what people see, I influenced it*"! and it gives me that feeling like I am a real contributor, like I bring value to the world.
 
 Also I like QA because this is the only profession where you criticise other people's work and the better you are at criticising the more respect you get.
 
@@ -10,7 +10,7 @@ Also I like QA because this is the only profession where you criticise other peo
 
 ### Tools
 ![XCUITest](https://img.shields.io/badge/-XCUITest-fc943a?style=flat&logo=XCUITest)
-![Selenium](https://img.shields.io/badge/-Selenium-e0e0e0?style=flat&logo=Selenium)
+![Selenium](https://img.shields.io/badge/-Selenium-ffffff?style=flat&logo=Selenium)
 ![Appium](https://img.shields.io/badge/-Appium-65308f?style=flat&logo=)
 [![TTNetwork](https://img.shields.io/badge/-TTNetwork-ffffff?style=flat&logo=TTNetwork)](https://github.com/severgroup-tt/TTNetwork)
 ![k6](https://img.shields.io/badge/-k6-000000?style=flat&logo=k6)
