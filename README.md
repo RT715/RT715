@@ -24,3 +24,4 @@ Also I like QA because this is the only profession where you criticise other peo
 [![LinkedIn](https://img.shields.io/badge/-avybornov-ffffff?style=social&logo=LinkedIn)](https://www.linkedin.com/in/avybornov/)
 [![Gmail](https://img.shields.io/badge/-banny.hiphop@gmail.com-ffffff?style=social&logo=Gmail)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=banny.hiphop@gmail.com)
 [![Telegram](https://img.shields.io/badge/-RT715-ffffff?style=social&logo=Telegram)](https://t.me/RT715)
+<img width="1762" alt="Screenshot 2024-04-19 at 3 08 05 PM" src="https://github.com/RT715/RT715/assets/56626073/dde4c6d6-9703-4932-a821-f23319a51bf1">
